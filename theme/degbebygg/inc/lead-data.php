@@ -16,7 +16,6 @@ return array(
 	'omdomen_lista'  => array(
 		array( 'Fantastisk service och kvalitet', 'Mariya Elabassi', 'för 3 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg', 'foto-4.jpg' ),
+	'bild_hero'      => 'foto-4.jpg',
 	'ar_riktig'      => true,
 );

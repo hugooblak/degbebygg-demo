@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Degbe Bygg',
+	'bransch'        => 'Byggfirma',
 	'telefon'        => '070-456 41 09',
 	'telefon_tel'    => '+46704564109',
 	'ort'            => 'Lund',
